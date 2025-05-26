@@ -1,27 +1,29 @@
-title:    Linh Vu's Blog
-email:    vulinhtnut@gmail.com
-description:  Khoa học máy tính
-author:       Linh Vu
-baseurl:            ""
-url:                ""
+title: "Linh Vu's Blog"
+email: vulinhtnut@gmail.com
+description: "Khoa học máy tính"
+author: Linh Vu
+
+# Base URL = để trống nếu deploy trên username.github.io
+baseurl: "" 
+url: "https://vuthilinhvn.github.io"
 
 # Social Profiles
-twitter_username:   Linh Vu
-github_username:    Linh Vu
-facebook_username:  Linh Vu
-linkedin_username:  Linh Vu
-
-# Add your google-analytics ID here to activate google analytics
-#google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+twitter_username: linhvu
+github_username: VuthilinhVn
+facebook_username: linhvu
+linkedin_username: linhvu
 
 # Build settings
-markdown:           kramdown
+markdown: kramdown
 kramdown:
   input: GFM
   math_engine: mathjax
-paginate:           5
-paginate_path:      "/posts/page:num/"
+
+paginate: 5
+paginate_path: "/posts/page:num/"
+
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  - jekyll-sitemap
+
