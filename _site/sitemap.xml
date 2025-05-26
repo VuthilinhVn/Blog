@@ -1,19 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/rodbate.github.io/2019/10/20/test.html</loc>
+<loc>http://localhost:4000/2016/01/01/another-test-markdown.html</loc>
+<lastmod>2016-01-01T19:50:13+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2019/10/20/test.html</loc>
 <lastmod>2019-10-20T19:50:13+08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/rodbate.github.io/about.html</loc>
+<loc>http://localhost:4000/2025/05/27/Why-I-write-this-blog.html</loc>
+<lastmod>2025-05-27T02:45:13+08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/rodbate.github.io/contact.html</loc>
+<loc>http://localhost:4000/about.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/rodbate.github.io/posts/</loc>
+<loc>http://localhost:4000/contact.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/rodbate.github.io/</loc>
+<loc>http://localhost:4000/posts/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/README_deprecated.html</loc>
 </url>
 </urlset>

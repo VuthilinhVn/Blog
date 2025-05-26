@@ -1,21 +1,24 @@
-title:              Rodbate Blog
-email:              rodbatejss@gmail.com
-description:        Tech Blogs
-author:             rodbate
-baseurl:            "/rodbate.github.io"
-url:                "https://rodbate.github.io"
+title:    Linh Vu's Blog
+email:    vulinhtnut@gmail.com
+description:  Khoa học máy tính
+author:       Linh Vu
+baseurl:            ""
+url:                ""
 
 # Social Profiles
-twitter_username:   rodbate
-github_username:    rodbate
-facebook_username:  rodbate
-linkedin_username:  rodbate
+twitter_username:   Linh Vu
+github_username:    Linh Vu
+facebook_username:  Linh Vu
+linkedin_username:  Linh Vu
 
 # Add your google-analytics ID here to activate google analytics
 #google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
 paginate:           5
 paginate_path:      "/posts/page:num/"
 plugins:
