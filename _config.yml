@@ -4,7 +4,7 @@ description: "Khoa học máy tính"
 author: Linh Vu
 
 # Base URL = để trống nếu deploy trên username.github.io
-baseurl: "" 
+baseurl: "/Blog"
 url: "https://vuthilinhvn.github.io"
 
 # Social Profiles
