@@ -1,17 +1,16 @@
 title: "Linh Vu's Blog"
 email: vulinhtnut@gmail.com
-description: "Khoa học máy tính"
-author: Linh Vu
+description: "Khoa Học Máy Tính"
+author: Linh Vũ
 
 # Base URL = để trống nếu deploy trên username.github.io
 baseurl: "/Blog"
 url: "https://vuthilinhvn.github.io"
 
 # Social Profiles
-twitter_username: linhvu
-github_username: VuthilinhVn
-facebook_username: linhvu
-linkedin_username: linhvu
+github_username: https://github.com/VuthilinhVn/
+facebook_username: https://www.facebook.com/linhpltn.98
+
 
 # Build settings
 markdown: kramdown
