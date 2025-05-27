@@ -14,7 +14,7 @@ Trong phần này, chúng ta cùng tìm hiểu nhóm đầu tiên dựa theo s�
 1. **Supervised/Unpsupervised Learning**
 	**a. Supervised learning - Học có giám sát**
 		Trong học có giám sát, dữ liệu huấn luyện (*training data*) sẽ đc đưa vào mô hình (*fit*) với nhãn (*labels*) đầy đủ. 
-		![Supervised learning](/img/bai-1-images/Pasted image 20250527120501.png)
+		![Supervised learning](/img/bai-1-images/Pasted_image_20250527120501.png)
 		Một vài bài toán cho dạng này là bài toán phân loại (*classification*) và bài toán dự đoán (*predictors*). 
 		Các thuật toán phổ biến thuộc loại học có giám sát là:
 		- *KNN*
@@ -25,19 +25,19 @@ Trong phần này, chúng ta cùng tìm hiểu nhóm đầu tiên dựa theo s�
 		*- Neural networks*
 	**b. Unsupervised Learning - Học không giám sát**
 		Trong học khồn giám sát, giống như bạn đoán mò vậy, dữ liệu huấn luyện (training data) sẽ không có nhãn (labels), và hệ thống phải học mà k có giáo viên. 
-		![Unsupervised learning](/img/bai-1-images/Pasted image 20250527121009.png)
+		![Unsupervised learning](/img/bai-1-images/Pasted_image_20250527121009.png)
 		Một số thuật toán thuộc loại học không giám sát là:
 		- Nhóm thuật toán phân cụm (*Clusters*): K-Means, Hierarchical cluster analysis(HCA), Expectation Maximization
 		- Nhóm thuật toán giảm chiều và trực quan hóa (*Visualization and dimensionality reduction*): PCA, Kernel PCA, LLE, t-SNE
 		- Nhóm học mối liên hệ *(association rule learning)*: Apriori, Eclat
 	**c. Semisupervised learning - Học bán giám sát**
 		Một số bài toán khi chúng ta có số ít dữ liệu có nhãn và phần nhiều dữ liệu không gán nhãn, thì những thuật toán giải quyết bài toán dạng này được gọi là học bán giám sát.
-		![Semisupervised learning](/img/bai-1-images/Pasted image 20250527120501.png)
+		![Semisupervised learning](/img/bai-1-images/Pasted_image_20250527120501.png)
 		Nhu hình trên, một số điểm có nhãn(tam giác, vuông) và phần nhiều điểm khác k có nhãn(chấm tròn) vậy thì làm sao ta dự đoán đc điểm x thuộc class nào ? Với bài toán này chúng ta sẽ sử dụng các thuật toán bán giám sát. 
 		Một số thuật toán bán giám sát thường gặp là sự kết hợp của học k giám sát và học có giám sat, ví dụ: Deep belief networks(DBNs) ...
 	**d. Reinforcement learning - Học tăng cường**
 		Học tăng cường là một thuật toán khác hoàn toàn. Trong hệ thống này, có thuật ngữ *"agent"*, nó sẽ quan sát môi trường, chọn và thực hiện hành động, sau mỗi hành đồng nó sẽ có *rewards*(thường) nếu làm tốt, ngược lại nó sẽ nhận *panalties*(phạt) nếu làm không tốt. Nó phải học từ chính nó theo 1 *policy*(chiến lược) tốt nhất để ít bị phạt nhất.
-		![Reinforcement learning](/img/bai-1-images/Pasted image 20250527122131.png)
+		![Reinforcement learning](/img/bai-1-images/Pasted_image_20250527122131.png)
 Vậy là chúng ta đã tìm hiểu sơ lược cơ bản về nhóm Học máy đầu tiên, các bạn hãy trả lời các câu hỏi bên dưới để củng cổ thêm kiến thức nhé. Chúc các bạn học tốt!
 - *question1 : What is a labeled training set?*
 - *question2: Can you name five types of machine learning you know?* 
