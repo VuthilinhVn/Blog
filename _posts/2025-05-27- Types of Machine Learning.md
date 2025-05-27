@@ -3,7 +3,7 @@ layout: post
 title: "Phân loại hệ thống học máy (P1)"
 subtitle: "Types of Machine Learning (P1)"
 date: 2025-05-27 12:59:00 +0800
-background: '/img/banner.jpg'
+background: '/Blog/img/banner.jpg'
 ---
 
 Có nhiều loại hệ thống học máy khác nhau, nhưng cơ bản thì người ta sẽ phân loại theo tác dụng của chúng. Thông thường thì có:
