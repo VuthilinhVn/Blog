@@ -9,7 +9,7 @@
     color: $gray-800;
   }
   .navbar-toggler {
-    font-size: 24px;
+    font-size: 22px;
     font-weight: 800;
     padding: 13px;
     text-transform: uppercase;
@@ -18,7 +18,7 @@
   .navbar-nav {
     > li.nav-item {
       > a {
-        font-size: 24px;
+        font-size: 22px;
         font-weight: 800;
         letter-spacing: 5px;
         text-transform: uppercase;
@@ -90,11 +90,11 @@
     }
     &.is-visible {
       /* if the user changes the scrolling direction, we show the header */
-      -webkit-transform: translate3d(0, 100%, 0);
-      -moz-transform: translate3d(0, 100%, 0);
-      -ms-transform: translate3d(0, 100%, 0);
-      -o-transform: translate3d(0, 100%, 0);
-      transform: translate3d(0, 100%, 0);
+      -webkit-transform: translate3d(0, 80%, 0);
+      -moz-transform: translate3d(0, 80%, 0);
+      -ms-transform: translate3d(0, 80%, 0);
+      -o-transform: translate3d(0, 80%, 0);
+      transform: translate3d(0, 80%, 0);
     }
   }
 }
